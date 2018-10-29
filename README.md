@@ -1,1 +1,1 @@
-# Hangman
+This was a game I made to practice my skills using JS/jQuery and Bootstrap. The game generates a random number, and the user is tasked with matching this number by clicking a combination of "gems" that each have a randomly assigned value. The game resets the random values after the user wins/loses and their running-score is tallied on the page.
